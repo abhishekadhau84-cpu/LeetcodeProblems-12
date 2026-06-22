@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0075-sort-colors) |
+| [0198-house-robber](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0198-house-robber) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
