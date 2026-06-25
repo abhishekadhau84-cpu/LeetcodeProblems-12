@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0268-missing-number) |
 ## Two Pointers
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
@@ -37,9 +39,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -49,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0175-combine-two-tables) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
