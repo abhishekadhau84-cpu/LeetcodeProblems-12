@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0628-maximum-product-of-three-numbers) |
+| [0905-sort-array-by-parity](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0905-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
