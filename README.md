@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1122-relative-sort-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1122-relative-sort-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0268-missing-number) |
 | [1122-relative-sort-array](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -110,4 +113,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1051-height-checker](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
