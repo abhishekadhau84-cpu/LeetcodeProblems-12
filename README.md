@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1122-relative-sort-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1122-relative-sort-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0268-missing-number) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Database
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0169-majority-element) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Greedy
 |  |
 | ------- |
