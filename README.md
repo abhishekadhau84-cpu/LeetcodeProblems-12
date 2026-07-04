@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
