@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0976-largest-perimeter-triangle) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0976-largest-perimeter-triangle) |
@@ -82,12 +84,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0645-set-mismatch) |
 | [1122-relative-sort-array](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0645-set-mismatch) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Database
 |  |
