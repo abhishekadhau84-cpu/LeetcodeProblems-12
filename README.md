@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0075-sort-colors) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0645-set-mismatch) |
