@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1859-sorting-the-sentence](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1859-sorting-the-sentence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,4 +140,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1773-count-items-matching-a-rule) |
+| [1859-sorting-the-sentence](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
