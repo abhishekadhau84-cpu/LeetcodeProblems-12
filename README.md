@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0169-majority-element) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Greedy
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1678-goal-parser-interpretation) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1773-count-items-matching-a-rule) |
 | [1859-sorting-the-sentence](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
