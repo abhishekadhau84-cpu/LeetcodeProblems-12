@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1773-count-items-matching-a-rule) |
 | [1859-sorting-the-sentence](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
