@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0976-largest-perimeter-triangle) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0168-excel-sheet-column-title) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0709-to-lower-case) |
