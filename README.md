@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0905-sort-array-by-parity) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0168-excel-sheet-column-title) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0657-robot-return-to-origin) |
