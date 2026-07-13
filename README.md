@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0198-house-robber) |
 | [1668-maximum-repeating-substring](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1668-maximum-repeating-substring) |
+| [1871-jump-game-vii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1871-jump-game-vii) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1859-sorting-the-sentence](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1859-sorting-the-sentence) |
+| [1871-jump-game-vii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Simulation
 |  |
@@ -190,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1871-jump-game-vii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
