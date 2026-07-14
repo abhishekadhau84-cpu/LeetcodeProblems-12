@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0628-maximum-product-of-three-numbers) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0645-set-mismatch) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
