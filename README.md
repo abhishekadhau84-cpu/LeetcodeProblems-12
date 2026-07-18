@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0977-squares-of-a-sorted-array) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1528-shuffle-string](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1528-shuffle-string) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1678-goal-parser-interpretation) |
