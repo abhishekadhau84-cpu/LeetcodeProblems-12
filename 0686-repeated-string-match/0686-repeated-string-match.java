@@ -9,15 +9,11 @@ class Solution {
             count++;
         }
         if(sb.indexOf(b)!=-1)
-        {
             return count;
-        }
         sb.append(a);
         count++;
-         if(sb.indexOf(b)!=-1)
-        {
+        if(sb.indexOf(b)!=-1)
             return count;
-        }
         return -1;
     }
     
