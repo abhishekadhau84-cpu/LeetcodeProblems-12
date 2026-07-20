@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1773-count-items-matching-a-rule) |
+| [1813-sentence-similarity-iii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1813-sentence-similarity-iii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0977-squares-of-a-sorted-array) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1768-merge-strings-alternately) |
+| [1813-sentence-similarity-iii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1813-sentence-similarity-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1773-count-items-matching-a-rule) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1813-sentence-similarity-iii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1813-sentence-similarity-iii) |
 | [1859-sorting-the-sentence](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1859-sorting-the-sentence) |
 | [1871-jump-game-vii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1871-jump-game-vii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
