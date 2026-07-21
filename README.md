@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0268-missing-number) |
+| [0556-next-greater-element-iii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0976-largest-perimeter-triangle) |
 | [1030-matrix-cells-in-distance-order](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1030-matrix-cells-in-distance-order) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0455-assign-cookies) |
+| [0556-next-greater-element-iii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0905-sort-array-by-parity) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0168-excel-sheet-column-title) |
+| [0556-next-greater-element-iii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0680-valid-palindrome-ii) |
