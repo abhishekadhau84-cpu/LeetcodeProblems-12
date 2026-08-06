@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0976-largest-perimeter-triangle) |
 | [1030-matrix-cells-in-distance-order](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1030-matrix-cells-in-distance-order) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1513-number-of-substrings-with-only-1s) |
 ## Array
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1528-shuffle-string](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1528-shuffle-string) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
