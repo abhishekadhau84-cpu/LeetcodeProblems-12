@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0268-missing-number) |
+| [1208-get-equal-substrings-within-budget](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1208-get-equal-substrings-within-budget) |
 | [1898-maximum-number-of-removable-characters](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1898-maximum-number-of-removable-characters) |
 ## Divide and Conquer
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0777-swap-adjacent-in-lr-string](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0925-long-pressed-name](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1108-defanging-an-ip-address) |
+| [1208-get-equal-substrings-within-budget](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1208-get-equal-substrings-within-budget) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1528-shuffle-string](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1528-shuffle-string) |
@@ -237,9 +239,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1208-get-equal-substrings-within-budget](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1208-get-equal-substrings-within-budget) |
 | [1871-jump-game-vii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1871-jump-game-vii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1208-get-equal-substrings-within-budget](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1208-get-equal-substrings-within-budget) |
 | [1871-jump-game-vii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
