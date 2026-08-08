@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0227-basic-calculator-ii) |
@@ -246,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1208-get-equal-substrings-within-budget](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1208-get-equal-substrings-within-budget) |
 | [1871-jump-game-vii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1871-jump-game-vii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
