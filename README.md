@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0645-set-mismatch) |
+| [0848-shifting-letters](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0848-shifting-letters) |
 | [0905-sort-array-by-parity](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0976-largest-perimeter-triangle) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0709-to-lower-case) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0777-swap-adjacent-in-lr-string) |
+| [0848-shifting-letters](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0848-shifting-letters) |
 | [0925-long-pressed-name](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1108-defanging-an-ip-address) |
 | [1208-get-equal-substrings-within-budget](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1208-get-equal-substrings-within-budget) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0848-shifting-letters](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0848-shifting-letters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1208-get-equal-substrings-within-budget) |
 | [1871-jump-game-vii](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1871-jump-game-vii) |
 ## Linked List
