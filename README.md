@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/0627-swap-sex-of-employees) |
+| [1068-product-sales-analysis-i](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1068-product-sales-analysis-i) |
 | [1527-patients-with-a-condition](https://github.com/abhishekadhau84-cpu/LeetcodeProblems-12/tree/master/1527-patients-with-a-condition) |
 ## Counting
 |  |
